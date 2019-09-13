@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\bin\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.deps.json
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\bin\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\bin\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\bin\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.dll
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\obj\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\obj\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\obj\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\obj\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\bin\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.pdb
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\obj\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.dll
+C:\Users\gregs\Desktop\CD\RestSharpWithAuthRapidAPI\RestSharpWithAuthRapidAPI\obj\Debug\netcoreapp2.1\RestSharpWithAuthRapidAPI.pdb
