@@ -43,7 +43,8 @@ namespace RestSharpWithAuthRapidAPI
             RestClient client = new RestClient("https://morning-star.p.rapidapi.com/market/get-summary");
             RestRequest request = new RestRequest(Method.GET);
             request.AddHeader("x-rapidapi-host", "morning-star.p.rapidapi.com");
-            request.AddHeader("x - rapidapi - key", "5149b58dcamshd89fcbd19484eb2p100c57jsnc25e08335a51");
+            request.AddHeader("x-rapidapi-key", "5149b58dcamshd89fcbd19484eb2p100c57jsnc25e08335a51");
+            request.AddHeader("content-type", "application/json");
             IRestResponse response = client.Execute(request);
 
             string content = response.Content.ToString();
